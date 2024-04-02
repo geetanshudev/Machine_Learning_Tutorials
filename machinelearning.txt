@@ -1,0 +1,32 @@
+supervised learning 
+->regression
+-->Linear regression
+-->Multivariate regression
+-->Random forest regression
+-->SVM regression
+-->decision tree regression
+
+->Classification
+-->Naive Bayes
+-->Logistic regression
+-->KNN
+-->decision tree
+-->Random forest
+-->SVM
+
+Unsupervised learning
+->Clustering
+-->KMeans
+-->DBSCAN
+-->PCA
+-->IndependentComponentAnalysis
+
+->Association 
+-->FrequentPatternGrowth
+-->AprioriAlgorithm
+-->mlxtend(library)
+
+->Anomaly detections
+-->Z-score
+-->isolation forest
+-->pyOD(library)
