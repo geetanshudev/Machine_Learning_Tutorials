@@ -1,4 +1,4 @@
-# Machine_learn_proj
+# Machine_learning_Tutorials
 ![Designer (1)](https://github.com/geetanshudev/Machine_learn_proj/assets/119582068/ae900100-ac68-4f2a-95fb-e0f8291db530)
 
 <h2>Welcome to my repository of Machine Learning</h2> <br>
